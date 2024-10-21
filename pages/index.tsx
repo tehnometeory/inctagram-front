@@ -35,12 +35,7 @@ export default function Home() {
             height={38}
             priority
           />
-          <ol>
-            <li>
-              Get started by editing <code>pages/index.tsx</code>.
-            </li>
-            <li>Save and see your changes instantly.</li>
-          </ol>
+          <h2>Tehnometeory Inctagram App</h2>
 
           <div className={styles.ctas}>
             <a
